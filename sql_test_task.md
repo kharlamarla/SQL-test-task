@@ -1,8 +1,8 @@
 # Тестовое задание по SQL
 
 ---
-<div style="text-align: right"> Задание выполнялось на MySQL Ver 8.0.
-29-0<br>Полный <code>*.sql</code> файл с решениями прилагается</div>
+Задание выполнялось на MySQL Ver 8.0.29-0<br>
+[Полный <code>*.sql</code> файл с решениями](https://github.com/kharlamarla/SQL-test-task/blob/main/console.sql)
 
 ## Задание №1
 
